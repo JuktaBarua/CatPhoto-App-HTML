@@ -1,1 +1,1 @@
-# CatPhoto-App-HTML
+# CatPhoto app using HTML.
